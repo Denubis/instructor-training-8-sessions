@@ -5,7 +5,7 @@
   Days are displayed if at least one episode has 'start = true'.
 {% endcomment %}
 <div class="syllabus">
-  <h2 id="schedule">Sample Schedule</h2>
+  <h2 id="schedule">Indicative Schedule</h2>
 
   {% assign day = 0 %}
   {% assign multiday = false %}
@@ -49,7 +49,7 @@
       <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
       <td class="col-md-3">
         {% assign lesson_number = lesson_number | plus: 1 %}
-	{{ lesson_number }}. <a href="{{ relative_root_path }}{{ episode.url }}">{{ episode.title }}</a>
+  {{ lesson_number }}. <a href="{{ relative_root_path }}{{ episode.url }}">{{ episode.title }}</a>
       </td>
       <td class="col-md-7">
         {% if episode.break %}

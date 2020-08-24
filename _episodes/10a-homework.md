@@ -15,7 +15,7 @@ keypoints:
 
 ## Homework: 
 
-Please read ["The Science of Learning"](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf), which provides a brief overview of some key evidence-based results in teaching.
+Read about [centrally-organized and self-organized workshops](https://static.carpentries.org/workshops/#workshop-organising) and our [checklists for running workshops](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html). These summarize commonly asked questions about organizing and running workshops. When you arrive tomorrow, we will ask you to add one question about our operations to a list. We will then do our best to answer all of those questions during the day.
 
 > ## Feedback
 >

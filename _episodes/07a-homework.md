@@ -15,7 +15,7 @@ keypoints:
 
 ## Homework: 
 
-Please read ["The Science of Learning"](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf), which provides a brief overview of some key evidence-based results in teaching.
+Weekend homework: Review episode from prior week, and prepare to teach a live-coding segment from it. Read: [Ten Quick Tips for Creating an Effective Lesson](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6459472/)
 
 > ## Feedback
 >

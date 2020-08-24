@@ -1,6 +1,7 @@
 ---
 title: "Expertise and Instruction"
 block: "How Learning Works"
+start: true
 teaching: 15
 exercises: 30
 questions:
@@ -205,13 +206,13 @@ it with more positive and motivating word choices.
 >> Courtney Seiter lists [10 words and phrases][motivation-words] that can change a conversation: *if*, *could*, *yes*,
 >> *together*, *thank you*,
 >> *choose to*, *and*, *because*, *willing*, and the person's name. These are motivating words and phrases that can shift mindsets.
->> Jason Fried lists several dirty [four-letter words:][four-letter-words] *need*, *must*, *can’t*, *easy*,
+>> Jason Fried lists several dirty [four-letter words:][four-letter-words] *need*, *must*, *can't*, *easy*,
 >> *just*, *only*, and *fast*, as well as
 >> examples of how they are used to demotivate. Statements like:
->> *	"We really need it."
->> *	"If we don’t we can’t ..."
->> *	"Wouldn’t it be easy if we just did it like that?"
->> *	"Can you try it real fast?"
+>> *    "We really need it."
+>> *    "If we don't we can't ..."
+>> *    "Wouldn't it be easy if we just did it like that?"
+>> *    "Can you try it real fast?"
 >> can be perceived as dismissive or demeaning or worse.
 >>
 > {: .solution}
@@ -251,7 +252,7 @@ They may not care how hash tables work,
 or even that hash tables exist; they just want to know how to process data faster.
 We therefore have to make sure that everything we teach is useful right away,
 and conversely that we don't teach anything just because it's "fundamental".
-- Believing that something will be hard to learn is a self-fulfilling prophecy. Researchers already believe that computing is hard, a belief that is exacerbated by "experts" telling them that things should be easy when, in the researcher's experience, they're not.  Paradoxically, this is why it’s important not to say that something is easy.  If someone who has been told that tries it, and it doesn’t work, they are more likely to become discouraged.
+- Believing that something will be hard to learn is a self-fulfilling prophecy. Researchers already believe that computing is hard, a belief that is exacerbated by "experts" telling them that things should be easy when, in the researcher's experience, they're not.  Paradoxically, this is why it's important not to say that something is easy.  If someone who has been told that tries it, and it doesn't work, they are more likely to become discouraged.
 
 It's also why installing and configuring software is
 a much bigger problem for us than experienced programmers like to acknowledge.

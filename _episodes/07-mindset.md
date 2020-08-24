@@ -110,7 +110,7 @@ highlighting our ability to improve with effort.
 ## Errors are Essential to Learning
 
 > The typos are the pedagogy.
-> — Emily Jane McTavish
+> --- Emily Jane McTavish
 {: .quotation}
 
 Another example of how our beliefs (in this case, our emotions) impact learning
@@ -166,7 +166,7 @@ grit.
 passion and drive for learning despite the difficulties of the topic.
 
 > ## How Are You Gritty? (Optional)
-> A [previous exercise]({{ page.root }}{% link _episodes/08-motivation.md %}#overcoming-imposter-syndrome-optional) asked you to think of a time when learning something was difficult for you, or
+> A [previous exercise]({{ page.root }}{% link _episodes/06-motivation.md %}#overcoming-imposter-syndrome-optional) asked you to think of a time when learning something was difficult for you, or
 > you made a mistake that seemed silly or embarrassing.
 >
 > How did you motivate yourself to continue learning? How did it feel to persist in the face of challenge?

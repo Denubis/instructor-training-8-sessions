@@ -1,6 +1,7 @@
 ---
 title: "Motivation and Demotivation"
 block: "Creating a Positive Learning Environment"
+start: true
 teaching: 30
 exercises: 45
 questions:
@@ -121,19 +122,19 @@ learners.
 >     5. Identify and reward what you value.
 >     6. Show your own passion and enthusiasm for the discipline.
 > * Strategies to Build Positive Expectations
-> 	1. Ensure alignment of objectives, assessments, and instructional strategies.
-> 	2. Identify an appropriate level of challenge.
-> 	3. Create assignments that provide an appropriate level of challenge.
-> 	4. Provide early success opportunities.
-> 	5. Articulate your expectations.
-> 	6. Provide rubrics.
-> 	7. Provide targeted feedback.
-> 	8. Be fair.
-> 	9. Educate learners about the ways we explain success and failure.
-> 	10. Describe effective study strategies.
+>   1. Ensure alignment of objectives, assessments, and instructional strategies.
+>   2. Identify an appropriate level of challenge.
+>   3. Create assignments that provide an appropriate level of challenge.
+>   4. Provide early success opportunities.
+>   5. Articulate your expectations.
+>   6. Provide rubrics.
+>   7. Provide targeted feedback.
+>   8. Be fair.
+>   9. Educate learners about the ways we explain success and failure.
+>   10. Describe effective study strategies.
 > * Strategies for Self-Efficacy
-> 	1. Provide learners with options and the ability to make choices.
-> 	2. Give learners an opportunity to reflect.
+>   1. Provide learners with options and the ability to make choices.
+>   2. Give learners an opportunity to reflect.
 >
 > This exercise and discussion should take about 5 minutes.
 {: .challenge}

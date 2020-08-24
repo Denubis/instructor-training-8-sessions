@@ -1,6 +1,7 @@
 ---
 title: "Workshop Introductions"
 block: "The Carpentries"
+start: true
 teaching: 10
 exercises: 30
 questions:
@@ -257,9 +258,9 @@ accessibility, etc.
 > Imagine you have completed instructor training and you are about to teach a full lesson around the material you have been practicing teaching today.
 >
 > 1. Write out some notes, covering some of the topics described above:
-> 	1.  Introduce yourself effectively
-> 	1.  Clarify learning objectives and expectations
-> 	1.  Set the tone for the workshop
+>   1.  Introduce yourself effectively
+>   1.  Clarify learning objectives and expectations
+>   1.  Set the tone for the workshop
 > 2. Return to your groups of 2 or 3 and each give 2 minutes of your introduction. (5-6 min)
 > 3. After each introduction, provide 2-3 minutes of feedback.
 >

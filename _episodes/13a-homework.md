@@ -15,7 +15,7 @@ keypoints:
 
 ## Homework: 
 
-Please read ["The Science of Learning"](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf), which provides a brief overview of some key evidence-based results in teaching.
+Weekend Homework for day 7: Group task: Poke at issues, poke at making a sample git page, Personal task: print and highlight your live-coding episode.
 
 > ## Feedback
 >

@@ -1,5 +1,6 @@
 ---
 title: "Checkout Process"
+start: true
 teaching: 5
 exercises: 10
 questions:

@@ -18,7 +18,7 @@ This two-day class has the following overall goals:
 *   Help you become integrated into the [Carpentries]({{ site.carpentries_site }}) community. 
 *   Prepare you to use these teaching skills in teaching [Carpentries]({{ site.carpentries_site }}) workshops.
 
-Because we have only two days, some things are beyond the scope of this class. We will not be learning:  
+Because we have only eight sessions, some things are beyond the scope of this class. We will not be learning:  
 *   How to program in R or Python, use Git or SQL, or any of the other topics taught in Software Carpentry, Data Carpentry, or Library Carpentry workshops. 
 *   How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you're inspired to learn more). 
 
@@ -41,6 +41,9 @@ will be certified to teach [Software Carpentry]({{ site.swc_site }}), [Data Carp
     to be able to teach them).
 
 Feedback on these materials is welcome as an [issue][issues] on the GitHub repository that hosts this site.
+
+**
+
 
 **These materials are freely available under a [Creative Commons license][license].**
 

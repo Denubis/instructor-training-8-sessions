@@ -10,3 +10,5 @@ _site
 .RData
 
 /Gemfile.lock
+
+.ruby-version
