@@ -1,6 +1,7 @@
 ---
 title: "Teaching is a Skill"
 block: "Building Teaching Skill"
+start: true
 teaching: 15
 exercises: 55
 questions:
