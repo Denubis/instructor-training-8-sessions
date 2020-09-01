@@ -50,52 +50,13 @@ We recommend preparing one of the following:
     *   [Repeating Actions with Loops in Python](<{{ site.swc_pages }}/python-novice-inflammation/04-loop/>)
     *   [Exploring Data Frames in R](<{{ site.swc_pages }}/r-novice-gapminder/05-data-structures-part2/>)
 
-## [Motivation and Demotivation]()
-
-* Why is motivation important?
-* How can we create a motivating environment for learners?
-
-## [Mindset]()
-
-* How does mindset influence learning?
-* How should we praise our learners?
-* How should we talk about errors?
-* What are successful habits of lifelong learners?
-
-# Day 4
-
-## Teaching is a Skill
-
-* How can I improve my teaching?
-
-## Day 5
-
-
-**Weekend Homework: Choose an episode from any lesson in https://carpentries.github.io/instructor-training/demo_lessons/index.html and read through it, preparing to teach it.**
-
-We recommend preparing one of the following:
-*   Data Carpentry
-    *   [Faceting and Clustering in OpenRefine](<{{ site.dc_site }}/OpenRefine-ecology-lesson/01-working-with-openrefine>)
-    *   [Basic Queries in SQL](<{{ site.dc_site }}/sql-ecology-lesson/01-sql-basic-queries/>)
-    *   [Starting with Data in R](<{{ site.dc_site }}/R-ecology-lesson/02-starting-with-data.html>)
-    *   [Starting with Data in Python](<{{ site.dc_site }}/python-ecology-lesson/02-starting-with-data/>)
-    
-*   Library Carpentry
-    *   [Working with Files and Directories in the Unix Shell](https://librarycarpentry.github.io/lc-shell/03-working-with-files-and-folders/index.html)
-    *   [Faceting and filtering in Open Refine](https://librarycarpentry.github.io/lc-open-refine/04-faceting-and-filtering/index.html)
-    *   [For loops in Python](https://librarycarpentry.github.io/lc-python-intro/12-for-loops/index.html)        
-    
-*   Software Carpentry
-    *   [Working with Files and Directories in the Unix Shell](<{{ site.swc_pages }}/shell-novice/03-create/>)
-    *   [Tracking Changes in Git](<{{ site.swc_pages }}/git-novice/04-changes/>)
-    *   [Selecting Data in SQL](<{{ site.swc_pages }}/sql-novice-survey/01-select/>)
-    *   [Repeating Actions with Loops in Python](<{{ site.swc_pages }}/python-novice-inflammation/04-loop/>)
-    *   [Exploring Data Frames in R](<{{ site.swc_pages }}/r-novice-gapminder/05-data-structures-part2/>)
 
 
 > ## Feedback
 >
 > The Trainer(s) will ask for feedback on the day in some form.  
+> 
+> https://limesurvey.mq.edu.au/index.php/756654?lang=en&newtest=Y
 >
 > This exercise should take 5 minutes.  
 {: .challenge}
