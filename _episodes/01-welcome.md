@@ -62,6 +62,16 @@ instructor training.  We're very pleased to have you with us.
 > later in the workshop: [Workshop Introductions](http://carpentries.github.io/instructor-training/23-introductions/index.html))
 {: .discussion}
 
+## Policies for this 8-session class
+
+* Tell us ahead of time and we'll work something out.
+* Miss one class and make up, miss two and you fail.
+* Emphasize the fact that people in their GROUP need them to be there
+* Icebreakers will start 10 minutes before, 11:50 am
+  * Darya and Brian reflecting on sticky notes
+  * Explicit Q&A period for questions from homework and previous class. 
+
+
 Now we would like to get to know all of you.
 
 > ## Reviewing Carpentries Experience and Goals
@@ -85,11 +95,18 @@ Now we would like to get to know all of you.
 > 5.  I have taught at the primary or secondary education level.
 > 6.  I have taught informally through outreach programs, hackathons, libraries, laboratory demonstrations, and similar activities.
 >
-> **Why are you taking this course? What goals do you have for today and tomorrow?**
+> **Why are you taking this course? What goals do you have for this workshop?**
 >
 > If time permits, the trainer may have you discuss these answers in small groups
 > (in breakout rooms if online), or all together as a group.
 {: .challenge}
+
+
+> ## Making groups
+>
+> Find people you're likely to teach with in geographic or institutional proximity. They'll be your group for this workshop. Write down your group in our shared document.
+{: .challenge}
+
 
 To make sure everyone has the
 same context, we'll give a brief overview of the Carpentries
@@ -182,6 +199,10 @@ of this particular course.
 
 If there's a particular topic that you would like us to address, let the trainers
 know.
+
+
+
+
 
 ## Let's Get Started
 

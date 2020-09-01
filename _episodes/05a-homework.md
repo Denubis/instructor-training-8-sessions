@@ -18,6 +18,19 @@ keypoints:
 
 **Weekend Homework: Choose an episode from any lesson in https://carpentries.github.io/instructor-training/demo_lessons/index.html and read through it, preparing to teach it.**
 
+**Weekend Homework 2: Make a concept map (ideas below) and paste a screenshot/photo of it/link to it into the Google Doc**
+
+Draw a concept map for one of the following:
+* Baking Bread
+* Changing the oil on a car
+* Doing the laundry
+* Functions in R/python
+* A Carpentries lesson you want to teach
+* your choice!
+
+
+
+
 We recommend preparing one of the following:
 *   Data Carpentry
     *   [Faceting and Clustering in OpenRefine](<{{ site.dc_site }}/OpenRefine-ecology-lesson/01-working-with-openrefine>)
