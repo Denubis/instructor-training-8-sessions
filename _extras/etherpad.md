@@ -3,8 +3,8 @@ layout: base
 title: "Etherpad Template"
 ---
 <blockquote><div style=' border:2px solid black; background:white;margin:10px;padding:5px;'><h1> Etherpad Exporter </h1><p>To use, click copy to clipboard, go to your etherpad, and paste, or click save page to disk for etherpad import, go to etherpad, click the double-arrow button in the top right, choose the file just downloaded, and click import now.</p>
-	<p>Workshop ID:<input id="workshop-id" name="workshop-id" value="WORKSHOP_ID_HERE"/></p>
-	<button id="copy-button" data-clipboard-target="#data-copy-target"  style="">Copy to Clipboard</button><button id="save-button" onClick="save()"  style="margin-left:10px;">Save page to disk for etherpad import</button></div></blockquote>
+  <p>Workshop ID:<input id="workshop-id" name="workshop-id" value="WORKSHOP_ID_HERE"/></p>
+  <button id="copy-button" data-clipboard-target="#data-copy-target"  style="">Copy to Clipboard</button><button id="save-button" onClick="save()"  style="margin-left:10px;">Save page to disk for etherpad import</button></div></blockquote>
 
 <div id="data-copy-target">
 <blockquote >
@@ -116,8 +116,8 @@ function save() {
 
 //Why paste workshop ID two places in the middle of the document when it can be highlighted front and centre and changed twice automatically?
 $("input#workshop-id").change(function(){
-	$("#preid").text($(this).val());
-	$("#postid").text($(this).val());
+  $("#preid").text($(this).val());
+  $("#postid").text($(this).val());
 })
 
 // Find headers (h1..3), and add physical linebreaks around them, while trying to minimise the appearance of physical linebreaks, so that they render in the degraded html of etherpad. 
@@ -137,7 +137,7 @@ $("h3").wrap("<u>");
 
 
 $("img").each(function(){
-	$(this).parent().replaceWith("<blockquote><p>Image: "+$(this).prop('alt')+" "+$(this).prop('src')+"</p></blockquote>")
+  $(this).parent().replaceWith("<blockquote><p>Image: "+$(this).prop('alt')+" "+$(this).prop('src')+"</p></blockquote>")
 })
 
 
@@ -181,11 +181,14 @@ $("blockquote.challenge h2").each(function(){
   var oldtext = $(this).text();
   $(this).text("Exercise: "+oldtext).before("<br/><br/>").wrap("<b>").wrap("<i>");
 });
-$("blockquote.callout h2").each(function(){
-  var oldtext = $(this).text();
-  $(this).text("Callout: "+oldtext).before("<br/><br/>").wrap("<b>").wrap("<i>");
+// $("blockquote.callout h2").each(function(){
+//   var oldtext = $(this).text();
+//   $(this).text("Callout: "+oldtext).before("<br/><br/>").wrap("<b>").wrap("<i>");
   
-});
+// });
+$("blockquote.callout").remove();
+
+
 $("blockquote.discussion h2").each(function(){
   var oldtext = $(this).text();
   $(this).text("Discussion: "+oldtext).before("<br/><br/>").wrap("<b>").wrap("<i>");
@@ -203,24 +206,24 @@ $("blockquote").contents().unwrap();
 //$("*").removeAttr('id');
 
 $("div[class^='language']").each(function(){
-	if ($(this).hasClass("language-python") == true) {
-		$(this).before("<i>Python:</i><br/>");
-	} 
-	else {
-		$(this).before("<i>Code:</i><br/>");
-	}
+  if ($(this).hasClass("language-python") == true) {
+    $(this).before("<i>Python:</i><br/>");
+  } 
+  else {
+    $(this).before("<i>Code:</i><br/>");
+  }
 
 })
 $("div[class^='output']").each(function(){
-	$(this).before("<i>Output:</i><br/>");
-	
+  $(this).before("<i>Output:</i><br/>");
+  
 
 })
 
 $("div").after("<br/>");
 
 $("pre").each(function(){
-	$(this).text($(this).text().replace("\n","\n\n")) ;
+  $(this).text($(this).text().replace("\n","\n\n")) ;
 })
 
 //remove all non-essential formatting. (Specifically preserving the container.)
